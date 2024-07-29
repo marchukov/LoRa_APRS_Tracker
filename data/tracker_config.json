@@ -1,11 +1,11 @@
 {
 	"beacons": [
 		{
-			"callsign": "NOCALL-7",
+			"callsign": "OK8AFB-7",
 			"symbol": "[",
 			"overlay": "/",
 			"micE": "",
-			"comment": "",
+			"comment": "T-Beam V1.2 Portable LoRa APRS Tracker",
 			"smartBeacon": {
 				"active": true,
 				"slowRate": 120,
@@ -19,11 +19,11 @@
 			}			
 		},
 		{
-			"callsign": "NOCALL-7",
+			"callsign": "OK8AFB-7",
 			"symbol": ">",
 			"overlay": "/",
 			"micE": "",
-			"comment": "",
+			"comment": "T-Beam V1.2 Portable LoRa APRS Tracker",
 			"smartBeacon": {
 				"active": true,
 				"slowRate": 120,
@@ -37,11 +37,11 @@
 			}
 		},
 		{
-			"callsign": "NOCALL-7",
+			"callsign": "OK8AFB-7",
 			"symbol": "b",
 			"overlay": "/",
 			"micE": "",
-			"comment": "",
+			"comment": "T-Beam V1.2 Portable LoRa APRS Tracker",
 			"smartBeacon": {
 				"active": true,
 				"slowRate": 120,
@@ -71,7 +71,7 @@
 		"standingUpdateTime": 15,
 		"sendAltitude": true,
 		"sendBatteryInfo": false,
-		"bluetoothType": 1,
+		"bluetoothType": 0,
 		"bluetoothActive": true,
 		"disableGPS": false
 	},
